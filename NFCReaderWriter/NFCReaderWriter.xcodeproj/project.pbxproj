@@ -138,8 +138,8 @@
 		3684F92A2938A2CC007E3357 /* NFCReaderWriter */ = {
 			isa = PBXGroup;
 			children = (
-				3664DB50293DAAB40015A167 /* IHProgressHUD */,
 				3664DB4E2938E3BE0015A167 /* NFCReaderWriter.entitlements */,
+				3664DB50293DAAB40015A167 /* IHProgressHUD */,
 				3684F9602938D427007E3357 /* ViewController */,
 				3684F95B2938D38E007E3357 /* NFCManger */,
 				3684F92B2938A2CC007E3357 /* AppDelegate.swift */,
